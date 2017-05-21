@@ -1,0 +1,532 @@
+DISTRICT DATABASE SYSTEM
+------------------------
+	TOWN : 1
+		House : 1
+			PERSON : 1
+				Identification Number : 0000846930886
+				Age : 77
+				Weight : 17
+			PERSON : 2
+				Identification Number : 0001957747793
+				Age : 35
+				Weight : 88
+			PERSON : 3
+				Identification Number : 0001649760492
+				Age : 49
+				Weight : 23
+			PERSON : 4
+				Identification Number : 0001025202362
+				Age : 27
+				Weight : 92
+
+		House : 2
+			PERSON : 1
+				Identification Number : 0002044897763
+				Age : 26
+				Weight : 42
+			PERSON : 2
+				Identification Number : 0001540383426
+				Age : 72
+				Weight : 38
+			PERSON : 3
+				Identification Number : 0000035005211
+				Age : 68
+				Weight : 69
+			PERSON : 4
+				Identification Number : 0001726956429
+				Age : 82
+				Weight : 32
+
+		House : 3
+			PERSON : 1
+				Identification Number : 0000233665123
+				Age : 67
+				Weight : 37
+			PERSON : 2
+				Identification Number : 0001101513929
+				Age : 2
+				Weight : 24
+			PERSON : 3
+				Identification Number : 0000635723058
+				Age : 69
+				Weight : 69
+			PERSON : 4
+				Identification Number : 0001059961393
+				Age : 56
+				Weight : 13
+			PERSON : 5
+				Identification Number : 0001656478042
+				Age : 29
+				Weight : 75
+
+		House : 4
+			PERSON : 1
+				Identification Number : 0001914544919
+				Age : 84
+				Weight : 39
+			PERSON : 2
+				Identification Number : 0001734575198
+				Age : 24
+				Weight : 17
+			PERSON : 3
+				Identification Number : 0002038664370
+				Age : 13
+				Weight : 28
+
+		House : 5
+			PERSON : 1
+				Identification Number : 0001424268980
+				Age : 56
+				Weight : 75
+			PERSON : 2
+				Identification Number : 0000137806862
+				Age : 70
+				Weight : 98
+			PERSON : 3
+				Identification Number : 0000135497281
+				Age : 5
+				Weight : 27
+			PERSON : 4
+				Identification Number : 0001937477084
+				Age : 27
+				Weight : 38
+
+		House : 6
+			PERSON : 1
+				Identification Number : 0000805750846
+				Age : 29
+				Weight : 15
+			PERSON : 2
+				Identification Number : 0001433925857
+				Age : 24
+				Weight : 97
+			PERSON : 3
+				Identification Number : 0000939819582
+				Age : 45
+				Weight : 16
+			PERSON : 4
+				Identification Number : 0001548233367
+				Age : 34
+				Weight : 66
+			PERSON : 5
+				Identification Number : 0001374344043
+				Age : 50
+				Weight : 89
+
+		House : 7
+			PERSON : 1
+				Identification Number : 0000945117276
+				Age : 78
+				Weight : 90
+			PERSON : 2
+				Identification Number : 0000709393584
+				Age : 3
+				Weight : 53
+			PERSON : 3
+				Identification Number : 0000752392754
+				Age : 99
+				Weight : 34
+
+		House : 8
+			PERSON : 1
+				Identification Number : 0001411549676
+				Age : 68
+				Weight : 41
+			PERSON : 2
+				Identification Number : 0001984210012
+				Age : 26
+				Weight : 88
+			PERSON : 3
+				Identification Number : 0001469348094
+				Age : 39
+				Weight : 97
+
+		House : 9
+			PERSON : 1
+				Identification Number : 0002040651434
+				Age : 78
+				Weight : 69
+			PERSON : 2
+				Identification Number : 0001892066601
+				Age : 97
+				Weight : 4
+			PERSON : 3
+				Identification Number : 0001330573317
+				Age : 92
+				Weight : 54
+			PERSON : 4
+				Identification Number : 0000660260756
+				Age : 1
+				Weight : 82
+
+		House : 10
+			PERSON : 1
+				Identification Number : 0000593209441
+				Age : 65
+				Weight : 91
+			PERSON : 2
+				Identification Number : 0000364228444
+				Age : 19
+				Weight : 42
+			PERSON : 3
+				Identification Number : 0000270744729
+				Age : 31
+				Weight : 19
+			PERSON : 4
+				Identification Number : 0002114738097
+				Age : 71
+				Weight : 83
+			PERSON : 5
+				Identification Number : 0000822890675
+				Age : 9
+				Weight : 29
+
+
+	TOWN : 2
+		House : 1
+			PERSON : 1
+				Identification Number : 0000498777856
+				Age : 97
+				Weight : 55
+			PERSON : 2
+				Identification Number : 0000327254586
+				Age : 65
+				Weight : 8
+			PERSON : 3
+				Identification Number : 0001703964683
+				Age : 19
+				Weight : 26
+
+		House : 2
+			PERSON : 1
+				Identification Number : 0002040332871
+				Age : 32
+				Weight : 31
+			PERSON : 2
+				Identification Number : 0000378409503
+				Age : 19
+				Weight : 72
+			PERSON : 3
+				Identification Number : 0001573363368
+				Age : 8
+				Weight : 17
+			PERSON : 4
+				Identification Number : 0001373226340
+				Age : 49
+				Weight : 98
+
+		House : 3
+			PERSON : 1
+				Identification Number : 0001117142618
+				Age : 45
+				Weight : 48
+			PERSON : 2
+				Identification Number : 0000439493451
+				Age : 21
+				Weight : 57
+			PERSON : 3
+				Identification Number : 0001231192379
+				Age : 88
+				Weight : 66
+			PERSON : 4
+				Identification Number : 0000338888228
+				Age : 41
+				Weight : 52
+			PERSON : 5
+				Identification Number : 0001911165193
+				Age : 0
+				Weight : 36
+
+		House : 4
+			PERSON : 1
+				Identification Number : 0001869470124
+				Age : 14
+				Weight : 89
+			PERSON : 2
+				Identification Number : 0001982275856
+				Age : 43
+				Weight : 93
+			PERSON : 3
+				Identification Number : 0000350322227
+				Age : 65
+				Weight : 61
+			PERSON : 4
+				Identification Number : 0001760281936
+				Age : 32
+				Weight : 53
+
+		House : 5
+			PERSON : 1
+				Identification Number : 0000971899228
+				Age : 75
+				Weight : 9
+			PERSON : 2
+				Identification Number : 0001139901474
+				Age : 21
+				Weight : 60
+			PERSON : 3
+				Identification Number : 0002130794395
+				Age : 29
+				Weight : 39
+			PERSON : 4
+				Identification Number : 0001605908235
+				Age : 93
+				Weight : 20
+			PERSON : 5
+				Identification Number : 0001605894428
+				Age : 43
+				Weight : 13
+
+		House : 6
+			PERSON : 1
+				Identification Number : 0001784639529
+				Age : 76
+				Weight : 6
+			PERSON : 2
+				Identification Number : 0001939964443
+				Age : 63
+				Weight : 15
+			PERSON : 3
+				Identification Number : 0001067854538
+				Age : 6
+				Weight : 42
+
+		House : 7
+			PERSON : 1
+				Identification Number : 0000165344818
+				Age : 28
+				Weight : 90
+			PERSON : 2
+				Identification Number : 0001351797369
+				Age : 17
+				Weight : 19
+			PERSON : 3
+				Identification Number : 0000680466996
+				Age : 24
+				Weight : 45
+			PERSON : 4
+				Identification Number : 0000159259470
+				Age : 83
+				Weight : 92
+
+		House : 8
+			PERSON : 1
+				Identification Number : 0001096689772
+				Age : 25
+				Weight : 46
+			PERSON : 2
+				Identification Number : 0001172755590
+				Age : 5
+				Weight : 41
+			PERSON : 3
+				Identification Number : 0001012502954
+				Age : 86
+				Weight : 71
+			PERSON : 4
+				Identification Number : 0000968338082
+				Age : 42
+				Weight : 66
+			PERSON : 5
+				Identification Number : 0000933110197
+				Age : 7
+				Weight : 57
+
+		House : 9
+			PERSON : 1
+				Identification Number : 0001789376348
+				Age : 11
+				Weight : 24
+			PERSON : 2
+				Identification Number : 0001037127828
+				Age : 99
+				Weight : 45
+			PERSON : 3
+				Identification Number : 0001529195746
+				Age : 68
+				Weight : 42
+			PERSON : 4
+				Identification Number : 0000087755422
+				Age : 11
+				Weight : 12
+
+		House : 10
+			PERSON : 1
+				Identification Number : 0001369321801
+				Age : 61
+				Weight : 32
+			PERSON : 2
+				Identification Number : 0001308044878
+				Age : 5
+				Weight : 22
+			PERSON : 3
+				Identification Number : 0000705178736
+				Age : 44
+				Weight : 28
+
+
+	TOWN : 3
+		House : 1
+			PERSON : 1
+				Identification Number : 0001470503465
+				Age : 8
+				Weight : 18
+			PERSON : 2
+				Identification Number : 0001143408282
+				Age : 58
+				Weight : 26
+			PERSON : 3
+				Identification Number : 0001884167637
+				Age : 62
+				Weight : 26
+
+		House : 2
+			PERSON : 1
+				Identification Number : 0000776532036
+				Age : 52
+				Weight : 101
+			PERSON : 2
+				Identification Number : 0001431419379
+				Age : 50
+				Weight : 70
+			PERSON : 3
+				Identification Number : 0000619290071
+				Age : 73
+				Weight : 33
+
+		House : 3
+			PERSON : 1
+				Identification Number : 0000007684930
+				Age : 33
+				Weight : 96
+			PERSON : 2
+				Identification Number : 0000404158660
+				Age : 63
+				Weight : 101
+			PERSON : 3
+				Identification Number : 0001973387981
+				Age : 99
+				Weight : 98
+
+		House : 4
+			PERSON : 1
+				Identification Number : 0001472713773
+				Age : 13
+				Weight : 70
+			PERSON : 2
+				Identification Number : 0002025187190
+				Age : 95
+				Weight : 28
+			PERSON : 3
+				Identification Number : 0000437116466
+				Age : 84
+				Weight : 42
+
+		House : 5
+			PERSON : 1
+				Identification Number : 0001943327684
+				Age : 76
+				Weight : 44
+			PERSON : 2
+				Identification Number : 0001069755936
+				Age : 7
+				Weight : 47
+			PERSON : 3
+				Identification Number : 0000588219756
+				Age : 79
+				Weight : 20
+			PERSON : 4
+				Identification Number : 0000995706887
+				Age : 12
+				Weight : 50
+
+		House : 6
+			PERSON : 1
+				Identification Number : 0000387451659
+				Age : 9
+				Weight : 38
+			PERSON : 2
+				Identification Number : 0000298625210
+				Age : 42
+				Weight : 89
+			PERSON : 3
+				Identification Number : 0001799878206
+				Age : 1
+				Weight : 15
+			PERSON : 4
+				Identification Number : 0000476667372
+				Age : 21
+				Weight : 57
+
+		House : 7
+			PERSON : 1
+				Identification Number : 0000774044599
+				Age : 21
+				Weight : 6
+			PERSON : 2
+				Identification Number : 0001950955939
+				Age : 11
+				Weight : 42
+			PERSON : 3
+				Identification Number : 0001756915667
+				Age : 5
+				Weight : 30
+			PERSON : 4
+				Identification Number : 0000846811127
+				Age : 50
+				Weight : 86
+			PERSON : 5
+				Identification Number : 0000555996658
+				Age : 20
+				Weight : 26
+
+		House : 8
+			PERSON : 1
+				Identification Number : 0001389867269
+				Age : 96
+				Weight : 83
+			PERSON : 2
+				Identification Number : 0000711645630
+				Age : 84
+				Weight : 94
+			PERSON : 3
+				Identification Number : 0002006811972
+				Age : 72
+				Weight : 52
+			PERSON : 4
+				Identification Number : 0001414647625
+				Age : 85
+				Weight : 24
+
+		House : 9
+			PERSON : 1
+				Identification Number : 0001896306640
+				Age : 42
+				Weight : 100
+			PERSON : 2
+				Identification Number : 0000446340713
+				Age : 98
+				Weight : 92
+			PERSON : 3
+				Identification Number : 0001782280524
+				Age : 90
+				Weight : 11
+			PERSON : 4
+				Identification Number : 0000700108581
+				Age : 19
+				Weight : 38
+
+		House : 10
+			PERSON : 1
+				Identification Number : 0000726371155
+				Age : 94
+				Weight : 6
+			PERSON : 2
+				Identification Number : 0000882160379
+				Age : 69
+				Weight : 75
+			PERSON : 3
+				Identification Number : 0001662981776
+				Age : 50
+				Weight : 57
+
+
