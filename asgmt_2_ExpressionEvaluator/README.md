@@ -3,17 +3,22 @@ Evaluates the expression through a very friendly
 and readable C++ Object Oriented design. 
 
 ## Exit
-Press the *EOF* key :
-	C+c
+Press the **EOF** character :
+	
+	$ C+c
+	
 to exit.
 
 ## Installation
 On commandline, run :
-	make
-to make *build* directory containing the executable.
-Run the program using :
-	./build/cal
 
+	make
+		
+to make **build** directory containing the executable.
+Run the program using :
+	
+	./build/cal
+	
 ## Code
 ### Classes
 - Expr
@@ -25,5 +30,8 @@ Run the program using :
 - Expr.hpp
 - Expr.cpp
 
+## Screenshot
+![](2017-05-28-012614_1600x900_scrot.png)
+
 ## Supervisor
-Sir *Tariq Saeed* <tariq@rcms.nust.edu.pk>
+Sir **Tariq Saeed** <tariq@rcms.nust.edu.pk>
