@@ -45,7 +45,10 @@ int main()
 		catch (exception& e)
 		{
 			cerr << "Exception!\t" << "what?\t" 
-				<< e.what() << endl << endl;
+				<< "\e[1m"
+				<< e.what() 
+				<< "\e[0m"
+				<< endl << endl;
 		}
 
 	} while (1);
