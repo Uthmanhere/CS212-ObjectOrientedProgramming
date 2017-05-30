@@ -31,7 +31,7 @@ Run the program using :
 - Expr.cpp
 
 ## Screenshot
-![](2017-05-28-012614_1600x900_scrot.png)
+![](2017-05-30-170453_1600x900_scrot.png)
 
 ## Supervisor
 Sir **Tariq Saeed** <tariq@rcms.nust.edu.pk>
